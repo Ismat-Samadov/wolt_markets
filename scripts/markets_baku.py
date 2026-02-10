@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Wolt Markets Scraper
-Scrapes all supermarkets, items, prices, and related data from Wolt API
+Wolt Markets Scraper - Focused on Baku, Azerbaijan
+Scrapes supermarkets, items, prices from Wolt API for Baku
 """
 
 import requests
@@ -27,15 +27,17 @@ class WoltMarketsScraper:
     BASE_URL = "https://restaurant-api.wolt.com"
     CONSUMER_API_URL = "https://consumer-api.wolt.com"
 
-    # Default coordinates (Baku, Azerbaijan as example)
+    # Baku, Azerbaijan coordinates
     DEFAULT_LAT = 40.373141313556964
     DEFAULT_LON = 49.84575754727883
 
-    def __init__(self, output_dir: str = "data"):
+    def __init__(self, output_dir: str = "data", target_city: str = "baku"):
         self.output_dir = output_dir
+        self.target_city = target_city
         self.session = requests.Session()
         self.session.headers.update({
             'accept': 'application/json, text/plain, */*',
+            'accept-encoding': 'gzip, deflate',  # Exclude br (brotli) to avoid decompression issues
             'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8,ru;q=0.7,az;q=0.6',
             'app-language': 'az',
             'client-version': '1.16.76',
@@ -50,10 +52,8 @@ class WoltMarketsScraper:
         os.makedirs(output_dir, exist_ok=True)
 
         # Data storage
-        self.cities = []
         self.markets = []
         self.items = []
-        self.categories = []
 
     def make_request(self, url: str, method: str = "GET", **kwargs) -> Optional[Dict]:
         """Make HTTP request with error handling and rate limiting"""
@@ -75,20 +75,6 @@ class WoltMarketsScraper:
         except json.JSONDecodeError as e:
             logger.error(f"Failed to parse JSON from {url}: {e}")
             return None
-
-    def fetch_cities(self) -> List[Dict]:
-        """Fetch all available cities"""
-        logger.info("Fetching cities...")
-        url = f"{self.BASE_URL}/v1/cities"
-
-        data = self.make_request(url)
-        if data and 'results' in data:
-            self.cities = data['results']
-            logger.info(f"Found {len(self.cities)} cities")
-            return self.cities
-
-        logger.warning("No cities found")
-        return []
 
     def fetch_retail_markets(self, lat: float, lon: float, city_slug: str = "") -> List[Dict]:
         """Fetch retail markets for a specific location"""
@@ -119,7 +105,16 @@ class WoltMarketsScraper:
         logger.info(f"Fetching details for venue: {venue_slug}")
         url = f"{self.CONSUMER_API_URL}/consumer-api/venue-content-api/v3/web/venue-content/slug/{venue_slug}"
 
-        return self.make_request(url)
+        data = self.make_request(url)
+        if data:
+            # Debug logging
+            has_items = 'items' in data and len(data.get('items', [])) > 0
+            has_sections = 'sections' in data and len(data.get('sections', [])) > 0
+            logger.debug(f"Venue {venue_slug}: has_items={has_items}, has_sections={has_sections}")
+            if has_items:
+                logger.debug(f"Venue {venue_slug}: {len(data.get('items', []))} items found")
+
+        return data
 
     def extract_items_from_venue(self, venue_data: Dict, venue_info: Dict) -> List[Dict]:
         """Extract all items from venue data"""
@@ -131,6 +126,7 @@ class WoltMarketsScraper:
         # Get sections - items are directly in each section
         venue_sections = venue_data.get('sections', [])
         if not venue_sections:
+            logger.warning(f"No sections found in venue data for {venue_info.get('name', 'unknown')}")
             return []
 
         for section in venue_sections:
@@ -185,71 +181,62 @@ class WoltMarketsScraper:
         logger.info(f"Extracted {len(items)} items from {venue_info.get('name', 'unknown venue')}")
         return items
 
-    def scrape_all_markets(self):
-        """Main scraping function"""
-        logger.info("Starting Wolt Markets scraping...")
+    def scrape_markets(self):
+        """Main scraping function for target city"""
+        logger.info(f"Starting Wolt Markets scraping for {self.target_city}...")
 
-        # Fetch all cities
-        cities = self.fetch_cities()
+        # Use default Baku coordinates
+        lat = self.DEFAULT_LAT
+        lon = self.DEFAULT_LON
+        city_slug = self.target_city
+        city_name = self.target_city.capitalize()
 
-        if not cities:
-            logger.warning("No cities found. Using default location.")
-            cities = [{
-                'slug': 'baku',
-                'name': 'Baku',
-                'location': {
-                    'coordinates': [self.DEFAULT_LON, self.DEFAULT_LAT]
-                }
-            }]
+        logger.info(f"Processing city: {city_name} ({city_slug})")
 
-        # For each city, fetch markets
-        for city in cities:
-            city_slug = city.get('slug', '')
-            city_name = city.get('name', '')
-            coords = city.get('location', {}).get('coordinates', [self.DEFAULT_LON, self.DEFAULT_LAT])
-            lon, lat = coords[0], coords[1]
+        # Fetch retail markets for this city
+        markets = self.fetch_retail_markets(lat, lon, city_slug)
 
-            logger.info(f"Processing city: {city_name} ({city_slug})")
+        if not markets:
+            logger.error("No markets found for the target city")
+            return
 
-            # Fetch retail markets for this city
-            markets = self.fetch_retail_markets(lat, lon, city_slug)
+        # Process each market
+        for market in markets:
+            market_slug = market.get('slug', '')
+            market_name = market.get('name', '')
 
-            # Process each market
-            for market in markets:
-                market_slug = market.get('slug', '')
-                market_name = market.get('name', '')
+            # Add market to our collection
+            market_data = {
+                'venue_id': market.get('id', ''),
+                'name': market_name,
+                'slug': market_slug,
+                'address': market.get('address', ''),
+                'city': city_name,
+                'city_slug': city_slug,
+                'country': market.get('country', ''),
+                'latitude': market.get('location', [0, 0])[1],
+                'longitude': market.get('location', [0, 0])[0],
+                'rating_score': market.get('rating', {}).get('score', None),
+                'rating_volume': market.get('rating', {}).get('volume', None),
+                'price_range': market.get('price_range', None),
+                'online': market.get('online', False),
+                'delivers': market.get('delivers', False),
+                'delivery_price': market.get('delivery_price_int', 0) / 100,
+                'estimate_minutes': market.get('estimate', 0),
+                'estimate_range': market.get('estimate_range', ''),
+                'short_description': market.get('short_description', ''),
+                'tags': ','.join(market.get('tags', [])),
+                'scraped_at': datetime.now().isoformat(),
+            }
+            self.markets.append(market_data)
 
-                # Add market to our collection
-                self.markets.append({
-                    'venue_id': market.get('id', ''),
-                    'name': market_name,
-                    'slug': market_slug,
-                    'address': market.get('address', ''),
-                    'city': city_name,
-                    'city_slug': city_slug,
-                    'country': market.get('country', ''),
-                    'latitude': market.get('location', [0, 0])[1],
-                    'longitude': market.get('location', [0, 0])[0],
-                    'rating_score': market.get('rating', {}).get('score', None),
-                    'rating_volume': market.get('rating', {}).get('volume', None),
-                    'price_range': market.get('price_range', None),
-                    'online': market.get('online', False),
-                    'delivers': market.get('delivers', False),
-                    'delivery_price': market.get('delivery_price_int', 0) / 100,
-                    'estimate_minutes': market.get('estimate', 0),
-                    'estimate_range': market.get('estimate_range', ''),
-                    'short_description': market.get('short_description', ''),
-                    'tags': ','.join(market.get('tags', [])),
-                    'scraped_at': datetime.now().isoformat(),
-                })
+            # Fetch detailed venue information including items
+            venue_details = self.fetch_venue_details(market_slug)
 
-                # Fetch detailed venue information including items
-                venue_details = self.fetch_venue_details(market_slug)
-
-                if venue_details:
-                    # Extract all items from this venue
-                    venue_items = self.extract_items_from_venue(venue_details, market)
-                    self.items.extend(venue_items)
+            if venue_details:
+                # Extract all items from this venue
+                venue_items = self.extract_items_from_venue(venue_details, market)
+                self.items.extend(venue_items)
 
         logger.info(f"Scraping completed. Total markets: {len(self.markets)}, Total items: {len(self.items)}")
 
@@ -259,7 +246,7 @@ class WoltMarketsScraper:
 
         # Save markets
         if self.markets:
-            markets_file = os.path.join(self.output_dir, 'markets.csv')
+            markets_file = os.path.join(self.output_dir, f'markets_{self.target_city}.csv')
             with open(markets_file, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.DictWriter(f, fieldnames=self.markets[0].keys())
                 writer.writeheader()
@@ -268,32 +255,34 @@ class WoltMarketsScraper:
 
         # Save items
         if self.items:
-            items_file = os.path.join(self.output_dir, 'items.csv')
+            items_file = os.path.join(self.output_dir, f'items_{self.target_city}.csv')
             with open(items_file, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.DictWriter(f, fieldnames=self.items[0].keys())
                 writer.writeheader()
                 writer.writerows(self.items)
             logger.info(f"Saved {len(self.items)} items to {items_file}")
+        else:
+            logger.warning("No items found to save")
 
         # Save summary
-        summary_file = os.path.join(self.output_dir, 'scrape_summary.txt')
+        summary_file = os.path.join(self.output_dir, f'scrape_summary_{self.target_city}.txt')
         with open(summary_file, 'w', encoding='utf-8') as f:
-            f.write(f"Wolt Markets Scraping Summary\n")
+            f.write(f"Wolt Markets Scraping Summary - {self.target_city.capitalize()}\n")
             f.write(f"{'='*50}\n")
             f.write(f"Scraped at: {datetime.now().isoformat()}\n")
-            f.write(f"Total cities processed: {len(self.cities)}\n")
+            f.write(f"Target city: {self.target_city}\n")
             f.write(f"Total markets scraped: {len(self.markets)}\n")
             f.write(f"Total items scraped: {len(self.items)}\n")
             f.write(f"\nData saved to:\n")
-            f.write(f"  - {os.path.join(self.output_dir, 'markets.csv')}\n")
-            f.write(f"  - {os.path.join(self.output_dir, 'items.csv')}\n")
+            f.write(f"  - {os.path.join(self.output_dir, f'markets_{self.target_city}.csv')}\n")
+            f.write(f"  - {os.path.join(self.output_dir, f'items_{self.target_city}.csv')}\n")
 
         logger.info(f"Summary saved to {summary_file}")
 
     def run(self):
         """Run the complete scraping process"""
         try:
-            self.scrape_all_markets()
+            self.scrape_markets()
             self.save_to_csv()
             logger.info("Scraping process completed successfully!")
         except Exception as e:
@@ -303,7 +292,13 @@ class WoltMarketsScraper:
 
 def main():
     """Main entry point"""
-    scraper = WoltMarketsScraper(output_dir="data")
+    import sys
+
+    target_city = "baku"
+    if len(sys.argv) > 1:
+        target_city = sys.argv[1]
+
+    scraper = WoltMarketsScraper(output_dir="data", target_city=target_city)
     scraper.run()
 
 
