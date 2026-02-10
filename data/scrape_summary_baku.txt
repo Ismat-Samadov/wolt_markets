@@ -1,0 +1,10 @@
+Wolt Markets Scraping Summary - Baku
+==================================================
+Scraped at: 2026-02-10T20:28:27.086913
+Target city: baku
+Total markets scraped: 1706
+Total items scraped: 30259
+
+Data saved to:
+  - data/markets_baku.csv
+  - data/items_baku.csv
