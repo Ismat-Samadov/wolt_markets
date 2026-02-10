@@ -1,0 +1,4037 @@
+{
+    "category_navigation_type": "sidebar",
+    "collections": [
+        {
+            "id": "discover",
+            "name": "Kəşf edin",
+            "slug": null,
+            "parent_slug": null,
+            "icon": "sparkles",
+            "subcollections": [
+                {
+                    "id": "discounted",
+                    "name": "Təkliflər",
+                    "slug": "discounted"
+                },
+                {
+                    "id": "popular",
+                    "name": "Ən çox sifariş verilən",
+                    "slug": "popular"
+                },
+                {
+                    "id": "new",
+                    "name": "Yeni",
+                    "slug": "new"
+                }
+            ]
+        }
+    ],
+    "loyalty_program": {
+        "id": null,
+        "brand_color": null,
+        "call_to_action": null,
+        "example_loyalty_code": null,
+        "explanatory_view": null,
+        "has_loyalty_program": false,
+        "logo": null,
+        "loyalty_code_layout": null,
+        "name": null,
+        "string_overrides": {},
+        "user_loyalty_card": null,
+        "venue_has_loyalty_program": false,
+        "last_name_required": false
+    },
+    "sections": [
+        {
+            "section_type": "tall_item_card_collection_carousel",
+            "name": "Təkliflər",
+            "slug": "discounted",
+            "parent_slug": "discover",
+            "categories": [
+                {
+                    "id": "5a6a8dde109093bec4b0c841",
+                    "item_ids": [
+                        "0523710f9bfa6e457c295d03",
+                        "8e4ebe7409f0b6aee35ecfe8",
+                        "e756c553c6d82cee1032e937"
+                    ]
+                },
+                {
+                    "id": "962ae196e89813503fbaaf4f",
+                    "item_ids": [
+                        "0b35542c8c33582300cab6d6"
+                    ]
+                },
+                {
+                    "id": "32bd9a33bbc5fa8d321bd73d",
+                    "item_ids": [
+                        "1862589d49c696b2a5933f18",
+                        "21095ba450471d435b033c1e",
+                        "acafa0ad2ea213c51e9f0d1e",
+                        "bfe10471440d207155e6f1c8"
+                    ]
+                },
+                {
+                    "id": "4b238f361fddbd5b7518025e",
+                    "item_ids": [
+                        "19b2b01e542273080296ebaa"
+                    ]
+                },
+                {
+                    "id": "dde1949de58ac7895621bcf5",
+                    "item_ids": [
+                        "243b4650b8066556408e4a28",
+                        "25b99bb10e478e410cf23254",
+                        "47a280b845d516e34502eed4",
+                        "5609f8d45b1a7b2fbd42c2f6",
+                        "9de1b3aa0e253a99d46dcd19"
+                    ]
+                },
+                {
+                    "id": "e726b85b76fe2e540df0fd14",
+                    "item_ids": [
+                        "27335d79d96303fc2d8e293a",
+                        "de107182e35daef4e6d72966"
+                    ]
+                },
+                {
+                    "id": "49793c86037efa7ca9af9409",
+                    "item_ids": [
+                        "2d5824ae3dde097cc8515bb4",
+                        "ca9cc984ef449fb8ad1b4d52",
+                        "cb1289d02c4bfb0317ecf76f",
+                        "ef5516ba6a089bd227e145f2"
+                    ]
+                },
+                {
+                    "id": "a13c3d995b89c95e47cba090",
+                    "item_ids": [
+                        "2ff16b457f97a0cbdd2939b2"
+                    ]
+                },
+                {
+                    "id": "63dcf48fc7fb01d580e07878",
+                    "item_ids": [
+                        "3b892452a092ded71c0755ad"
+                    ]
+                },
+                {
+                    "id": "5cf67bd81db110d2ee048ddd",
+                    "item_ids": [
+                        "43d0562a03ae8c29d01baee0",
+                        "6a397e4e5dad4ea2472bfc38",
+                        "6c5a4119294630a350d22688"
+                    ]
+                },
+                {
+                    "id": "cb7e7f66294b45b625847a66",
+                    "item_ids": [
+                        "45e2b20184efafab507d0c21"
+                    ]
+                },
+                {
+                    "id": "e96e499e3964ae0d588dd54d",
+                    "item_ids": [
+                        "4696f45c9856f59277ca44b9"
+                    ]
+                },
+                {
+                    "id": "ee584adf2995724a74ade3bc",
+                    "item_ids": [
+                        "4988d2f8540d55b84ba59561"
+                    ]
+                },
+                {
+                    "id": "1fe6218e45f0461bba00bdb6",
+                    "item_ids": [
+                        "535b547a2c798087a28a5b5d"
+                    ]
+                },
+                {
+                    "id": "f937aa241087f7eb732982f6",
+                    "item_ids": [
+                        "58b8d2f6ab5da73a62ed3126"
+                    ]
+                },
+                {
+                    "id": "64657e1ac9d63c9cd37ae64b",
+                    "item_ids": [
+                        "5f77bd6adce6e0a1be49e403"
+                    ]
+                },
+                {
+                    "id": "2b8bd307a325a0fabc5ce283",
+                    "item_ids": [
+                        "8bf449bc95b08de60bfef7b8",
+                        "9d7062473f652f58a815426c",
+                        "ff559ce0c17d1e1f3427f594"
+                    ]
+                },
+                {
+                    "id": "ce85b6eea2ca26448a2720a5",
+                    "item_ids": [
+                        "93ac4a99be1003e66653055c"
+                    ]
+                },
+                {
+                    "id": "2036e29a17b664671d73ff96",
+                    "item_ids": [
+                        "9cd0246d02e4cdf898c548de"
+                    ]
+                },
+                {
+                    "id": "136491a5382b040a590b20e3",
+                    "item_ids": [
+                        "a1854fa0074dfb18a3f8d593",
+                        "c75e8d99726357db5ff1ba14"
+                    ]
+                },
+                {
+                    "id": "31bdb55b494324aa0284af7f",
+                    "item_ids": [
+                        "ae1826f11ab80009e3f9f955"
+                    ]
+                },
+                {
+                    "id": "a1e71227c79de05e0a48e4d8",
+                    "item_ids": [
+                        "b683f5fc93b14c053206a60c",
+                        "df05feb50d7e1adef733022f"
+                    ]
+                },
+                {
+                    "id": "e168b86eb321fe9c8741ee7f",
+                    "item_ids": [
+                        "bd49cb304f8c10d74468dd99"
+                    ]
+                },
+                {
+                    "id": "33d5c0a21b838e987ac4a3ec",
+                    "item_ids": [
+                        "f1d933478274442536ff1ed1"
+                    ]
+                },
+                {
+                    "id": "0902a37c6686025e896d8601",
+                    "item_ids": [
+                        "fb5f01dbe41fbd431e7ecc0a"
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "id": "de107182e35daef4e6d72966",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 81,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/62500c693270f040775a2444/3a743372-99b8-11ee-86f9-b68ea8ab781e_img_2432___2023_12_13t170454.815.jpg",
+                            "blurhash": "jaZfrXpF;:KXSSCphrpCPbGFh5pC"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 225,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "0da25fc9ed132d9bebc437adc5d8bb99",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Slavyanka 5lt Su Qazsız",
+                    "original_price": 269,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 269,
+                        "price": 225,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "5f77bd6adce6e0a1be49e403",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 14,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/35f5d092-9ab9-11ee-8880-becfa8ce7f3e_561561651561564564645_1000x1000_photoroom.jpg",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 235,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "be1547755fb5aec98ff3252fa1790862",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Gemiqaya Badamlı 5lt Qazsız Mineral Su (Plastik Qabda)",
+                    "original_price": 280,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 280,
+                        "price": 235,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "9de1b3aa0e253a99d46dcd19",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 231,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/8a1e7446-ed3a-11eb-bb96-2a905635ceaa_11.jpeg",
+                            "blurhash": "j8Z;HTKX;;hkXupC8PKGSJtTdzGq"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 90,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "2280441693fbb3ac29abe73eb4674247",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Sirab Qazlı Su 1 l",
+                    "original_price": 100,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 100,
+                        "price": 90,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "58b8d2f6ab5da73a62ed3126",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 162,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6082a8c7376cf8c5b3dcbdf0/1325318e-2e9f-11ed-a4eb-f67843c95164_1.jpeg",
+                            "blurhash": "jhZuXJCG;;FCFBypuHBTrtBCF3uG"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 105,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "eae682ec8b150982b41c19b6841c7134",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Patron Yaguar Dəniz Duzlu Günəbaxan Tumu 100 qr",
+                    "original_price": 140,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 140,
+                        "price": 105,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "e756c553c6d82cee1032e937",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 15,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/e37f93be-a0c3-11ee-aefa-3a9675c5d535_08d0a3be6d9bb9fa07302c3bcb77fd11_767x1000_photoroom.jpg",
+                            "blurhash": "jdRdnwd5;;XsOWKClFlG;;OWkPhm"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 655,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "eacb9978443c9f9f43602723ff2b82a5",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Mərcan Toyuq Bud Dibi (Bacaq) kq",
+                    "original_price": 750,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 1000,
+                        "input_type": "number_of_items",
+                        "price_per_kg": 655
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 750,
+                        "price": 655,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "6a397e4e5dad4ea2472bfc38",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 45,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6082a8c7376cf8c5b3dcbdf0/44f404b6-2f7f-11ed-b552-4278b05e8c23_1.jpeg",
+                            "blurhash": "j3:;LXPc;;cPPdtVh4GDXKll8yPc"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 229,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "d344ee960e9d65928ab21f9f086f34f1",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Milla Süd 1,5% 1 l",
+                    "original_price": 260,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 260,
+                        "price": 229,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "8e4ebe7409f0b6aee35ecfe8",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 20,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/7723dd18-bd34-11ef-ab03-16ad4b770e9c_2700442.jpeg",
+                            "blurhash": "j8;vvTGGT;FDPtC9kPtTPKtTgyCG"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 599,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "65e18b8619bac46ba10328d0eaae60e3",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Mərcan Toyuq Soyudulmuş Qırmızı Paket kg",
+                    "original_price": 695,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 1300,
+                        "input_type": "number_of_items",
+                        "price_per_kg": 599
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 695,
+                        "price": 599,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "acafa0ad2ea213c51e9f0d1e",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 24,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/c95a9e5a-9d28-11ee-9bdd-be36fdd6fc59_051393_1000x1000_photoroom.jpg",
+                            "blurhash": "jgXuDIlC;;OHjbGGNlllOXpChlGX"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 269,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "921806afd5b450767506f68637c29ed7",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Papia 2-li Mətbəx Kağızı 3 Katli",
+                    "original_price": 425,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "UNKNOWN"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 425,
+                        "price": 269,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "21095ba450471d435b033c1e",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 13,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/8c85aea8-ee9c-11eb-8965-3a135975c434_11.jpeg",
+                            "blurhash": "joUebtlC;;OXcPGpTdpSLbCpllCn"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 319,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "507c18a6b8f7b5db7a1cc489c7e14b6b",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Aura 2li Mətbəx Dəsmalı",
+                    "original_price": 472,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "UNKNOWN"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 472,
+                        "price": 319,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "0523710f9bfa6e457c295d03",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 2,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/shared/7b576f30-9d19-11ee-9f6b-9671d5ac99d0_94f56162b59de52c382642beb97ca6da_photoroom.jpg",
+                            "blurhash": "jnWtTspCXKKGKXCppCtT;;GGcPpD"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 419,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "43d2a6d77286d5d9267bc73d6adaaae0",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Mərcan Toyuq Fars kq",
+                    "original_price": 500,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 1000,
+                        "input_type": "number_of_items",
+                        "price_per_kg": 419
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 500,
+                        "price": 419,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "2ff16b457f97a0cbdd2939b2",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 25,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/b0566a0a-1145-11f0-b6e0-767e35e60441_017163.jpg",
+                            "blurhash": "jaZvvSGG;;pChBtTOICpTttTcPGq"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 191,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "2a639279bfc689d67a46cdc115ff76c3",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Activia Qaragilə və Taxıllı 270 qr",
+                    "original_price": 220,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 220,
+                        "price": 191,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "1862589d49c696b2a5933f18",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 113,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60ec285655ab669e8d642642/fc223dbe-edaa-11eb-a3a2-26a1ef930205_11.jpeg",
+                            "blurhash": "j9Xu;VTr;:hb;Ilk8SLdhaqrP5tk"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 103,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "14cbff6f715ef21821345841869ffde1",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Sun Paper 100lu Ağ Salfet Qaz",
+                    "original_price": 115,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "UNKNOWN"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 115,
+                        "price": 103,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                }
+            ],
+            "options": [
+                {
+                    "id": "71cfaf614736a746335c342a",
+                    "name": "Göyərti seçimi",
+                    "type": "multi_choice",
+                    "values": [
+                        {
+                            "id": "58d203036fd75577c32822c2",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Keşniş",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "80b5fb8353a686c1dd3eff44",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Şüyüd",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "8a5cdb9d9666a997e1ada5ad",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Göy Soğan",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "3f8328841e3110762929f23f",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Vəzəri",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "1829b000cb78d4637a13368c",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Nanə",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "39a9372c99d1059c25578bf3",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Petruşka",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "2c175f026fe076d21848b1a7",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Dağ Keşnişi",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "f7066949b09f1d16e20818c6",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Kəvər",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        }
+                    ],
+                    "default_value": "58d203036fd75577c32822c2",
+                    "has_extra_info": false
+                }
+            ],
+            "selected_options": {},
+            "variant_groups": [],
+            "telemetry_id": "discounted",
+            "advertising_info": null,
+            "branding": null
+        },
+        {
+            "section_type": "tall_item_card_collection_carousel",
+            "name": "Ən çox sifariş verilən",
+            "slug": "popular",
+            "parent_slug": "discover",
+            "categories": [
+                {
+                    "id": "5a6a8dde109093bec4b0c841",
+                    "item_ids": [
+                        "0523710f9bfa6e457c295d03",
+                        "8e4ebe7409f0b6aee35ecfe8",
+                        "e756c553c6d82cee1032e937"
+                    ]
+                },
+                {
+                    "id": "962ae196e89813503fbaaf4f",
+                    "item_ids": [
+                        "0b35542c8c33582300cab6d6"
+                    ]
+                },
+                {
+                    "id": "32bd9a33bbc5fa8d321bd73d",
+                    "item_ids": [
+                        "1862589d49c696b2a5933f18",
+                        "21095ba450471d435b033c1e",
+                        "acafa0ad2ea213c51e9f0d1e",
+                        "bfe10471440d207155e6f1c8"
+                    ]
+                },
+                {
+                    "id": "4b238f361fddbd5b7518025e",
+                    "item_ids": [
+                        "19b2b01e542273080296ebaa"
+                    ]
+                },
+                {
+                    "id": "dde1949de58ac7895621bcf5",
+                    "item_ids": [
+                        "243b4650b8066556408e4a28",
+                        "25b99bb10e478e410cf23254",
+                        "47a280b845d516e34502eed4",
+                        "5609f8d45b1a7b2fbd42c2f6",
+                        "9de1b3aa0e253a99d46dcd19"
+                    ]
+                },
+                {
+                    "id": "e726b85b76fe2e540df0fd14",
+                    "item_ids": [
+                        "27335d79d96303fc2d8e293a",
+                        "de107182e35daef4e6d72966"
+                    ]
+                },
+                {
+                    "id": "49793c86037efa7ca9af9409",
+                    "item_ids": [
+                        "2d5824ae3dde097cc8515bb4",
+                        "ca9cc984ef449fb8ad1b4d52",
+                        "cb1289d02c4bfb0317ecf76f",
+                        "ef5516ba6a089bd227e145f2"
+                    ]
+                },
+                {
+                    "id": "a13c3d995b89c95e47cba090",
+                    "item_ids": [
+                        "2ff16b457f97a0cbdd2939b2"
+                    ]
+                },
+                {
+                    "id": "63dcf48fc7fb01d580e07878",
+                    "item_ids": [
+                        "3b892452a092ded71c0755ad"
+                    ]
+                },
+                {
+                    "id": "5cf67bd81db110d2ee048ddd",
+                    "item_ids": [
+                        "43d0562a03ae8c29d01baee0",
+                        "6a397e4e5dad4ea2472bfc38",
+                        "6c5a4119294630a350d22688"
+                    ]
+                },
+                {
+                    "id": "cb7e7f66294b45b625847a66",
+                    "item_ids": [
+                        "45e2b20184efafab507d0c21"
+                    ]
+                },
+                {
+                    "id": "e96e499e3964ae0d588dd54d",
+                    "item_ids": [
+                        "4696f45c9856f59277ca44b9"
+                    ]
+                },
+                {
+                    "id": "ee584adf2995724a74ade3bc",
+                    "item_ids": [
+                        "4988d2f8540d55b84ba59561"
+                    ]
+                },
+                {
+                    "id": "1fe6218e45f0461bba00bdb6",
+                    "item_ids": [
+                        "535b547a2c798087a28a5b5d"
+                    ]
+                },
+                {
+                    "id": "f937aa241087f7eb732982f6",
+                    "item_ids": [
+                        "58b8d2f6ab5da73a62ed3126"
+                    ]
+                },
+                {
+                    "id": "64657e1ac9d63c9cd37ae64b",
+                    "item_ids": [
+                        "5f77bd6adce6e0a1be49e403"
+                    ]
+                },
+                {
+                    "id": "2b8bd307a325a0fabc5ce283",
+                    "item_ids": [
+                        "8bf449bc95b08de60bfef7b8",
+                        "9d7062473f652f58a815426c",
+                        "ff559ce0c17d1e1f3427f594"
+                    ]
+                },
+                {
+                    "id": "ce85b6eea2ca26448a2720a5",
+                    "item_ids": [
+                        "93ac4a99be1003e66653055c"
+                    ]
+                },
+                {
+                    "id": "2036e29a17b664671d73ff96",
+                    "item_ids": [
+                        "9cd0246d02e4cdf898c548de"
+                    ]
+                },
+                {
+                    "id": "136491a5382b040a590b20e3",
+                    "item_ids": [
+                        "a1854fa0074dfb18a3f8d593",
+                        "c75e8d99726357db5ff1ba14"
+                    ]
+                },
+                {
+                    "id": "31bdb55b494324aa0284af7f",
+                    "item_ids": [
+                        "ae1826f11ab80009e3f9f955"
+                    ]
+                },
+                {
+                    "id": "a1e71227c79de05e0a48e4d8",
+                    "item_ids": [
+                        "b683f5fc93b14c053206a60c",
+                        "df05feb50d7e1adef733022f"
+                    ]
+                },
+                {
+                    "id": "e168b86eb321fe9c8741ee7f",
+                    "item_ids": [
+                        "bd49cb304f8c10d74468dd99"
+                    ]
+                },
+                {
+                    "id": "33d5c0a21b838e987ac4a3ec",
+                    "item_ids": [
+                        "f1d933478274442536ff1ed1"
+                    ]
+                },
+                {
+                    "id": "0902a37c6686025e896d8601",
+                    "item_ids": [
+                        "fb5f01dbe41fbd431e7ecc0a"
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "id": "47a280b845d516e34502eed4",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 47,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/62500c693270f040775a2444/1d45dd54-99af-11ee-9133-92a3c8de6cca_img_2432___2023_12_13t155939.503.jpg",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 280,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "756f5d660d392d62e562de2c617db284",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Sirab 5lt Su (Plastik Qabda)",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [
+                        {
+                            "id": "popular",
+                            "label": "Populyar",
+                            "decoration": "star",
+                            "color": "primary",
+                            "style": {
+                                "background_color": "#009de0",
+                                "text_color": "#ffffff"
+                            }
+                        }
+                    ],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 280,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "bd49cb304f8c10d74468dd99",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 65,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/db385126-23b7-11ed-9de8-366315f9d1ad_frame_1.jpeg",
+                            "blurhash": "jjY:LCNlX;eXiBKYNXh3TLmXcyNk"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 135,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "9161b3219dab4c12760bc7802817c3f9",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Kök kq",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 1000,
+                        "input_type": "number_of_items",
+                        "price_per_kg": 135
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [
+                        {
+                            "id": "popular",
+                            "label": "Populyar",
+                            "decoration": "star",
+                            "color": "primary",
+                            "style": {
+                                "background_color": "#009de0",
+                                "text_color": "#ffffff"
+                            }
+                        }
+                    ],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 135,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "9cd0246d02e4cdf898c548de",
+                    "options": [
+                        {
+                            "id": "06c2abcdf108fbc56f885c79",
+                            "option_id": "71cfaf614736a746335c342a",
+                            "name": "Göyərti seçimi",
+                            "prerequisite_values": [],
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 3,
+                                    "max": 20
+                                },
+                                "max_single_selections": 5,
+                                "free_selections": 0
+                            }
+                        },
+                        {
+                            "id": "2fee3e9b97ae70c4b46486bc",
+                            "option_id": "71cfaf614736a746335c342a",
+                            "name": "Göyərti seçimi",
+                            "prerequisite_values": [],
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 9
+                                },
+                                "max_single_selections": 1,
+                                "free_selections": 0
+                            }
+                        }
+                    ],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": null,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/4c0d4494-2447-11ed-93d6-8a58670fd5d8_frame_1.jpeg",
+                            "blurhash": "jkVevxpB;;KXTtGGd4pC;;tW8yGC"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 23,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "b0040183420c577eb7e797291650e82f",
+                    "description": "Seçim ilə",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Göyərti",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 23,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "243b4650b8066556408e4a28",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 302,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/bc75d11a-8816-11ec-8eb2-d2306e1e9ceb_1111_white.jpeg",
+                            "blurhash": "j9ZvzWGG;:lDKYtTllCpTctTh4BT"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 105,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "92d2a840223460b62531570b4165ee86",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Sirab Su Qazsız Mineral 1.5 l",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 105,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "f1d933478274442536ff1ed1",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 60,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/62500c693270f040775a2444/db9ad66e-999c-11ee-803b-3a13c0faf37c_img_2432__81_.jpg",
+                            "blurhash": "jc:;rKPcT;gPPtlCh4OWPLplkxLb"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 519,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "4ac056ca7d4d72d4f29b7eea6df4ff5f",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "MVT Limon kq",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 1000,
+                        "input_type": "number_of_items",
+                        "price_per_kg": 519
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 519,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "de107182e35daef4e6d72966",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 81,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/62500c693270f040775a2444/3a743372-99b8-11ee-86f9-b68ea8ab781e_img_2432___2023_12_13t170454.815.jpg",
+                            "blurhash": "jaZfrXpF;:KXSSCphrpCPbGFh5pC"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 225,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "0da25fc9ed132d9bebc437adc5d8bb99",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Slavyanka 5lt Su Qazsız",
+                    "original_price": 269,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 269,
+                        "price": 225,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "25b99bb10e478e410cf23254",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 743,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/6f0a0fbe-8815-11ec-87bb-066286d834ff_1111_white.jpeg",
+                            "blurhash": "j6:fDXGG;;GGPctTh5GFTsypcQtC"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 60,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "e66dd628a9dc6483c6235df1e7c66b3f",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Sirab Qazsız Su 500 ml",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 60,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "3b892452a092ded71c0755ad",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 15,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/add4b9ca-2445-11ed-bcd4-96fd1c57ed7d_frame_1.jpeg",
+                            "blurhash": "jnXu7uPb;;d4Ttllh4OXLKGXkPtl"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 1600,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "5d250154eaf4d01c4df3802487e4b6ac",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Ət Dana Farş kq",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 1000,
+                        "input_type": "number_of_items",
+                        "price_per_kg": 1600
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 1600,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "535b547a2c798087a28a5b5d",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 15,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/60fe99fb16ca79165aa325ca/d8505732-21a9-11ef-b8e7-728a7ce4adbe_11111.png",
+                            "blurhash": "j8:vrTCG;;GGplupLcBTX;Cp8hpC"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 495,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "b412f0d0925cce4c11c71723de594152",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Pomidor Çerri Kiçik Ədəd",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 495,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "b683f5fc93b14c053206a60c",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 570,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/38054562-880e-11ec-8739-4a89ae751007_artboard_4.jpeg",
+                            "blurhash": "jeY;7MGp;;CGTKCpcPtTvctTt4Cp"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 140,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "d2d223bfd18e153996d240a0e977a9ed",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "Coca-Cola Zero Sugar 1 l",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": "1 əd.",
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 140,
+                        "unit": "piece"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "4696f45c9856f59277ca44b9",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 22,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/61113b1ca8c749525ea95a8a/43737d48-2475-11ed-9844-2e6c0883839c_frame_1.jpeg",
+                            "blurhash": "jhYfnGll;LTdLcGGlllmXvKH8Oll"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 259,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "98bb9bd28e2de2e3c8643a7a68df7a7e",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Kələm Aysberq kq",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 1000,
+                        "input_type": "number_of_items",
+                        "price_per_kg": 259
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 259,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "0b35542c8c33582300cab6d6",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 5,
+                    "images": [
+                        {
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/62500c693270f040775a2444/55e506c0-99ab-11ee-bc5b-3e219f9f4784_img_2432___2023_12_13t153234.771.jpg",
+                            "blurhash": "jhZuPIqGX;K9PcCpl4pTT;GpcylT"
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 699,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "b4e4e63e1c5f912d495f242bf2ff324b",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": 10,
+                    "min_quantity_per_purchase": null,
+                    "name": "MVT Nar kq",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 1000,
+                        "input_type": "number_of_items",
+                        "price_per_kg": 699
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": null,
+                        "price": 699,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": null,
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                }
+            ],
+            "options": [
+                {
+                    "id": "71cfaf614736a746335c342a",
+                    "name": "Göyərti seçimi",
+                    "type": "multi_choice",
+                    "values": [
+                        {
+                            "id": "58d203036fd75577c32822c2",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Keşniş",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "80b5fb8353a686c1dd3eff44",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Şüyüd",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "8a5cdb9d9666a997e1ada5ad",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Göy Soğan",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "3f8328841e3110762929f23f",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Vəzəri",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "1829b000cb78d4637a13368c",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Nanə",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "39a9372c99d1059c25578bf3",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Petruşka",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "2c175f026fe076d21848b1a7",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Dağ Keşnişi",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "f7066949b09f1d16e20818c6",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Kəvər",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        }
+                    ],
+                    "default_value": "58d203036fd75577c32822c2",
+                    "has_extra_info": false
+                }
+            ],
+            "selected_options": {},
+            "variant_groups": [],
+            "telemetry_id": "popular",
+            "advertising_info": null,
+            "branding": null
+        },
+        {
+            "section_type": "tall_item_card_collection_carousel",
+            "name": "Yeni",
+            "slug": "new",
+            "parent_slug": "discover",
+            "categories": [
+                {
+                    "id": "5a6a8dde109093bec4b0c841",
+                    "item_ids": [
+                        "0523710f9bfa6e457c295d03",
+                        "8e4ebe7409f0b6aee35ecfe8",
+                        "e756c553c6d82cee1032e937"
+                    ]
+                },
+                {
+                    "id": "962ae196e89813503fbaaf4f",
+                    "item_ids": [
+                        "0b35542c8c33582300cab6d6"
+                    ]
+                },
+                {
+                    "id": "32bd9a33bbc5fa8d321bd73d",
+                    "item_ids": [
+                        "1862589d49c696b2a5933f18",
+                        "21095ba450471d435b033c1e",
+                        "acafa0ad2ea213c51e9f0d1e",
+                        "bfe10471440d207155e6f1c8"
+                    ]
+                },
+                {
+                    "id": "4b238f361fddbd5b7518025e",
+                    "item_ids": [
+                        "19b2b01e542273080296ebaa"
+                    ]
+                },
+                {
+                    "id": "dde1949de58ac7895621bcf5",
+                    "item_ids": [
+                        "243b4650b8066556408e4a28",
+                        "25b99bb10e478e410cf23254",
+                        "47a280b845d516e34502eed4",
+                        "5609f8d45b1a7b2fbd42c2f6",
+                        "9de1b3aa0e253a99d46dcd19"
+                    ]
+                },
+                {
+                    "id": "e726b85b76fe2e540df0fd14",
+                    "item_ids": [
+                        "27335d79d96303fc2d8e293a",
+                        "de107182e35daef4e6d72966"
+                    ]
+                },
+                {
+                    "id": "49793c86037efa7ca9af9409",
+                    "item_ids": [
+                        "2d5824ae3dde097cc8515bb4",
+                        "ca9cc984ef449fb8ad1b4d52",
+                        "cb1289d02c4bfb0317ecf76f",
+                        "ef5516ba6a089bd227e145f2"
+                    ]
+                },
+                {
+                    "id": "a13c3d995b89c95e47cba090",
+                    "item_ids": [
+                        "2ff16b457f97a0cbdd2939b2"
+                    ]
+                },
+                {
+                    "id": "63dcf48fc7fb01d580e07878",
+                    "item_ids": [
+                        "3b892452a092ded71c0755ad"
+                    ]
+                },
+                {
+                    "id": "5cf67bd81db110d2ee048ddd",
+                    "item_ids": [
+                        "43d0562a03ae8c29d01baee0",
+                        "6a397e4e5dad4ea2472bfc38",
+                        "6c5a4119294630a350d22688"
+                    ]
+                },
+                {
+                    "id": "cb7e7f66294b45b625847a66",
+                    "item_ids": [
+                        "45e2b20184efafab507d0c21"
+                    ]
+                },
+                {
+                    "id": "e96e499e3964ae0d588dd54d",
+                    "item_ids": [
+                        "4696f45c9856f59277ca44b9"
+                    ]
+                },
+                {
+                    "id": "ee584adf2995724a74ade3bc",
+                    "item_ids": [
+                        "4988d2f8540d55b84ba59561"
+                    ]
+                },
+                {
+                    "id": "1fe6218e45f0461bba00bdb6",
+                    "item_ids": [
+                        "535b547a2c798087a28a5b5d"
+                    ]
+                },
+                {
+                    "id": "f937aa241087f7eb732982f6",
+                    "item_ids": [
+                        "58b8d2f6ab5da73a62ed3126"
+                    ]
+                },
+                {
+                    "id": "64657e1ac9d63c9cd37ae64b",
+                    "item_ids": [
+                        "5f77bd6adce6e0a1be49e403"
+                    ]
+                },
+                {
+                    "id": "2b8bd307a325a0fabc5ce283",
+                    "item_ids": [
+                        "8bf449bc95b08de60bfef7b8",
+                        "9d7062473f652f58a815426c",
+                        "ff559ce0c17d1e1f3427f594"
+                    ]
+                },
+                {
+                    "id": "ce85b6eea2ca26448a2720a5",
+                    "item_ids": [
+                        "93ac4a99be1003e66653055c"
+                    ]
+                },
+                {
+                    "id": "2036e29a17b664671d73ff96",
+                    "item_ids": [
+                        "9cd0246d02e4cdf898c548de"
+                    ]
+                },
+                {
+                    "id": "136491a5382b040a590b20e3",
+                    "item_ids": [
+                        "a1854fa0074dfb18a3f8d593",
+                        "c75e8d99726357db5ff1ba14"
+                    ]
+                },
+                {
+                    "id": "31bdb55b494324aa0284af7f",
+                    "item_ids": [
+                        "ae1826f11ab80009e3f9f955"
+                    ]
+                },
+                {
+                    "id": "a1e71227c79de05e0a48e4d8",
+                    "item_ids": [
+                        "b683f5fc93b14c053206a60c",
+                        "df05feb50d7e1adef733022f"
+                    ]
+                },
+                {
+                    "id": "e168b86eb321fe9c8741ee7f",
+                    "item_ids": [
+                        "bd49cb304f8c10d74468dd99"
+                    ]
+                },
+                {
+                    "id": "33d5c0a21b838e987ac4a3ec",
+                    "item_ids": [
+                        "f1d933478274442536ff1ed1"
+                    ]
+                },
+                {
+                    "id": "0902a37c6686025e896d8601",
+                    "item_ids": [
+                        "fb5f01dbe41fbd431e7ecc0a"
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "id": "ae1826f11ab80009e3f9f955",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 3,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698b26c14fe07fe9e18a25e9",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 1970,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "1e21a093856cc48cbecd0fe07de690d0",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Kırlangıç Riviera Zeytun Yağı 750 ml Şüşə qab",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": null,
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "4988d2f8540d55b84ba59561",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 8,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698b137b4fe07fe9e18a1bb0",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 2069,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "ab5ddfdde251629bfd9e28b3d8f5ba3f",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Xan Yelenendorf Araq 40% 1 L",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": null,
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "ca9cc984ef449fb8ad1b4d52",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 33,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698b06b75b01ba0990cc8f48",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 140,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "e051726d494a2af4904bac234c363f96",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Odel Peçenye Romaşka 400 Gr",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": null,
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "27335d79d96303fc2d8e293a",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 24,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698ae9fd4fe07fe9e18a054e",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 145,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "075565f99ba1be1b3033632ece5c23fe",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Alleya İstoçnikov Essentuki N17 Mineral Su 500 ml Şüşə Qab",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": null,
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "2d5824ae3dde097cc8515bb4",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 45,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698ae9164fe07fe9e18a040a",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 150,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "6b86f7be524566aa4eb8eef87867b51a",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Şölen Biscolata Stix Karamelli 36 Gr",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": null,
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "ef5516ba6a089bd227e145f2",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 10,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698ae4005b01ba0990cc81ba",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 150,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "0ff76c83d24ee468c1eba746677e0083",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Tadım Badamlı Portağallı Bar 30 Gr",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": null,
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "45e2b20184efafab507d0c21",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 36,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698ae2e13f2baa47350de244",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 150,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "8da07147567baf001b6999d4712a8a06",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Dondurma Algida Viennetta Stick 83 ml",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": null,
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "fb5f01dbe41fbd431e7ecc0a",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 13,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698af1afbd701e037d09ce68",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 165,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "0fa3002726ef2b0893611a4f79aae0d5",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Doşirak Çan Ramen Black Pasta 120 Gr",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "c75e8d99726357db5ff1ba14",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": null,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698af1a6bd701e037d09ce60",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 1999,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "61d360b977df2f45f6ec90caf79f1bf2",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Oldenburger Pendir Gouda kg",
+                    "original_price": 2640,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": {
+                        "grams_per_step": 500,
+                        "input_type": "grams",
+                        "price_per_kg": 1999
+                    },
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": {
+                        "base": 1,
+                        "original_price": 2640,
+                        "price": 1999,
+                        "unit": "kilogram"
+                    },
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "a1854fa0074dfb18a3f8d593",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 30,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698af1acbd701e037d09ce65",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 155,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "1ff13e6130e6b52bb0e2ff29e39fc4a0",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Kaanlar Pendir Süd Çubuğu 30 Gr",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [
+                        "PERISHABLE"
+                    ],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "93ac4a99be1003e66653055c",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 6,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698af1a9bd701e037d09ce62",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 155,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "c8d9511ff900323128a6c51378c1bec4",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Makfa Spagetti 400 Gr",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                },
+                {
+                    "id": "cb1289d02c4bfb0317ecf76f",
+                    "options": [],
+                    "advertising_metadata": null,
+                    "advertising_badge": null,
+                    "advertising_info": null,
+                    "quantity_left": null,
+                    "purchasable_balance": 16,
+                    "images": [
+                        {
+                            "url": "https://imageproxy.wolt.com/assets/698af1aabd701e037d09ce63",
+                            "blurhash": null
+                        }
+                    ],
+                    "videos": [],
+                    "barcode_gtin": null,
+                    "price": 170,
+                    "lowest_price_v2": null,
+                    "alcohol_permille": 0,
+                    "allowed_delivery_methods": [
+                        "eatin",
+                        "takeaway",
+                        "homedelivery"
+                    ],
+                    "available_times": [
+                        {
+                            "days": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7
+                            ],
+                            "start_time": 0,
+                            "end_time": 86400000
+                        }
+                    ],
+                    "caffeine_info": null,
+                    "can_be_promoted": {
+                        "basket": true,
+                        "venue": true,
+                        "credits": true
+                    },
+                    "checksum": "2bed639c279cd0f08a9740bdb85bacbd",
+                    "description": "",
+                    "deposit": null,
+                    "dietary_preferences": [],
+                    "disabled_info": null,
+                    "fulfillment_lead_time": null,
+                    "has_extra_info": false,
+                    "is_cutlery": false,
+                    "is_no_contact_delivery_allowed": true,
+                    "is_wolt_plus_only": false,
+                    "lowest_price": null,
+                    "max_quantity_per_purchase": null,
+                    "min_quantity_per_purchase": null,
+                    "name": "Snaq Fabriq Snaqwell Şokoladlı Baton 20 Gr",
+                    "original_price": null,
+                    "item_price_discount_validity_period": null,
+                    "product_hierarchy_tags": [],
+                    "restrictions": [],
+                    "return_policy": null,
+                    "sell_by_weight_config": null,
+                    "should_display_purchasable_balance": false,
+                    "tags": [],
+                    "unit_info": null,
+                    "unit_price": null,
+                    "variant": null,
+                    "vat_category_code": "AZE-2",
+                    "vat_percentage": 18,
+                    "vat_percentage_decimal": "18.0",
+                    "external_compliance_link": null,
+                    "consent_info": {
+                        "ask_consent": false,
+                        "blur_image": false
+                    }
+                }
+            ],
+            "options": [
+                {
+                    "id": "71cfaf614736a746335c342a",
+                    "name": "Göyərti seçimi",
+                    "type": "multi_choice",
+                    "values": [
+                        {
+                            "id": "58d203036fd75577c32822c2",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Keşniş",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "80b5fb8353a686c1dd3eff44",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Şüyüd",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "8a5cdb9d9666a997e1ada5ad",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Göy Soğan",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "3f8328841e3110762929f23f",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Vəzəri",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "1829b000cb78d4637a13368c",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Nanə",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "39a9372c99d1059c25578bf3",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Petruşka",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "2c175f026fe076d21848b1a7",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Dağ Keşnişi",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        {
+                            "id": "f7066949b09f1d16e20818c6",
+                            "deposit": null,
+                            "dietary_preferences": [],
+                            "name": "Kəvər",
+                            "price": 23,
+                            "multi_choice_config": {
+                                "total_range": {
+                                    "min": 0,
+                                    "max": 5
+                                }
+                            }
+                        }
+                    ],
+                    "default_value": "58d203036fd75577c32822c2",
+                    "has_extra_info": false
+                }
+            ],
+            "selected_options": {},
+            "variant_groups": [],
+            "telemetry_id": "new",
+            "advertising_info": null,
+            "branding": null
+        },
+        {
+            "name": "Kateqoriyaya görə mağaza",
+            "section_type": "categories_as_tiles"
+        }
+    ],
+    "substitution_preferences": [],
+    "next_page_token": null
+}

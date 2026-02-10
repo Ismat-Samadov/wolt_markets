@@ -1,0 +1,776 @@
+{
+    "city": "baku",
+    "created": {
+        "$date": 1770735894958
+    },
+    "expires_in_seconds": 900,
+    "name": "search",
+    "page_title": "Axtar\u0131\u015f n\u0259tic\u0259l\u0259ri",
+    "search_bar_enabled": true,
+    "search_filtering_version": "v1",
+    "search_id": "16d87216-0c08-42ac-8c81-070ba43b2983",
+    "search_results_layout": "SPLIT_VIEW",
+    "sections": [
+        {
+            "content_id": "",
+            "end_of_section": {
+                "link": {
+                    "subtitle": "Ham\u0131s\u0131na bax\u0131n",
+                    "target": "venues",
+                    "target_sort": "delivers-to",
+                    "target_title": "",
+                    "title": "Ham\u0131s\u0131na bax\u0131n",
+                    "type": "search-result-list",
+                    "view_name": "none"
+                },
+                "type": "expand-arrow-swipe"
+            },
+            "hide_delivery_info": false,
+            "items": [
+                {
+                    "filtering": {
+                        "filters": []
+                    },
+                    "image": {
+                        "blurhash": "jcRXCyYwKY8yHLUNF3J4juPah4Pt",
+                        "url": "https://imageproxy.wolt.com/assets/6957bc59a6c45b6cc94fe980"
+                    },
+                    "link": {
+                        "target": "https://wolt.com/az/aze/baku/restaurant/mcdonalds-sahil",
+                        "target_sort": "delivers-to",
+                        "target_title": "",
+                        "title": "",
+                        "type": "url"
+                    },
+                    "sorting": {
+                        "sortables": []
+                    },
+                    "telemetry_object_id": "",
+                    "telemetry_venue_badges": [],
+                    "template": "venue",
+                    "title": "McDonald's Sahil",
+                    "track_id": "venue-mcdonalds-sahil",
+                    "venue": {
+                        "address": "Uzeyir Hajibayov cross Bulbul avenue, 207, 2nd entrance",
+                        "badges": [],
+                        "badges_v2": [],
+                        "categories": [],
+                        "city": "",
+                        "country": "AZE",
+                        "currency": "AZN",
+                        "delivers": true,
+                        "delivery_highlight": true,
+                        "delivery_icon": "bike",
+                        "delivery_price_highlight": true,
+                        "delivery_price_int": 0,
+                        "estimate": 15,
+                        "estimate_box": {
+                            "subtitle": "d\u0259q",
+                            "template": "estimate",
+                            "title": "10-20"
+                        },
+                        "estimate_range": "10-20",
+                        "favourite": false,
+                        "franchise": "",
+                        "icon": "bike",
+                        "id": "5d3035d17c5a541646bcec97",
+                        "location": [
+                            49.8441199,
+                            40.37215349
+                        ],
+                        "name": "McDonald's Sahil",
+                        "online": true,
+                        "price_range": 2,
+                        "product_line": "restaurant",
+                        "promotions": [
+                            {
+                                "campaign_id": "6895a1de8322332ae6bdca48",
+                                "icon": "coupon-fill",
+                                "is_offer_stackable": true,
+                                "text": "14 g\u00fcnl\u00fck 0\u20bc \u00e7atd\u0131r\u0131lma haqq\u0131",
+                                "variant": "discount"
+                            }
+                        ],
+                        "promotions_for_telemetry": [],
+                        "rating": {
+                            "rating": 3,
+                            "score": 8.8,
+                            "volume": 0
+                        },
+                        "short_description": "I'm lovin' it!",
+                        "short_description_v2": {
+                            "lang": "az",
+                            "value": "I'm lovin' it!"
+                        },
+                        "show_best_of_wolt": false,
+                        "show_wolt_plus": false,
+                        "show_zero_markup": false,
+                        "slug": "mcdonalds-sahil",
+                        "tags": [
+                            "burger",
+                            "dondurma",
+                            "d\u00fcr\u00fcm"
+                        ],
+                        "venue_preview_items": []
+                    }
+                },
+                {
+                    "filtering": {
+                        "filters": []
+                    },
+                    "image": {
+                        "blurhash": "j8I8RE4XQPQP;;P4cPmSXt5594dm",
+                        "url": "https://imageproxy.wolt.com/assets/67cf26937b1e9f1edd50b301"
+                    },
+                    "link": {
+                        "target": "https://wolt.com/az/aze/baku/restaurant/mc-dad",
+                        "target_sort": "delivers-to",
+                        "target_title": "",
+                        "title": "",
+                        "type": "url"
+                    },
+                    "sorting": {
+                        "sortables": []
+                    },
+                    "telemetry_object_id": "",
+                    "telemetry_venue_badges": [],
+                    "template": "venue",
+                    "title": "MC-DAD",
+                    "track_id": "venue-mc-dad",
+                    "venue": {
+                        "address": "X\u0131rdalan, Misir Park",
+                        "badges": [],
+                        "badges_v2": [],
+                        "categories": [],
+                        "city": "",
+                        "country": "AZE",
+                        "currency": "AZN",
+                        "delivers": true,
+                        "delivery_highlight": true,
+                        "delivery_icon": "bike",
+                        "delivery_price_highlight": true,
+                        "delivery_price_int": 0,
+                        "estimate": 65,
+                        "estimate_box": {
+                            "subtitle": "d\u0259q",
+                            "template": "estimate",
+                            "title": "60-70"
+                        },
+                        "estimate_range": "60-70",
+                        "favourite": false,
+                        "franchise": "",
+                        "icon": "bike",
+                        "id": "67cedbe48f7f4798e02ab3ba",
+                        "location": [
+                            49.7419309,
+                            40.45678413
+                        ],
+                        "name": "MC-DAD",
+                        "online": true,
+                        "price_range": 2,
+                        "product_line": "restaurant",
+                        "promotions": [
+                            {
+                                "campaign_id": "6895a1de8322332ae6bdca48",
+                                "icon": "coupon-fill",
+                                "is_offer_stackable": true,
+                                "text": "14 g\u00fcnl\u00fck 0\u20bc \u00e7atd\u0131r\u0131lma haqq\u0131",
+                                "variant": "discount"
+                            }
+                        ],
+                        "promotions_for_telemetry": [],
+                        "rating": {
+                            "rating": 4,
+                            "score": 9.0,
+                            "volume": 0
+                        },
+                        "short_description": "Bir g\u00fcn h\u0259r k\u0259s MC-DAD\u0131m\u0131 dadacaq \ud83d\udc99",
+                        "short_description_v2": {
+                            "lang": "az",
+                            "value": "Bir g\u00fcn h\u0259r k\u0259s MC-DAD\u0131m\u0131 dadacaq \ud83d\udc99"
+                        },
+                        "show_best_of_wolt": false,
+                        "show_wolt_plus": false,
+                        "show_zero_markup": false,
+                        "slug": "mc-dad",
+                        "tags": [
+                            "burger",
+                            "burrito",
+                            "t\u00fcrk"
+                        ],
+                        "venue_preview_items": []
+                    }
+                },
+                {
+                    "filtering": {
+                        "filters": []
+                    },
+                    "image": {
+                        "blurhash": "jaHV9UXsfuNm;ZRjOSN3PbORisJk",
+                        "url": "https://imageproxy.wolt.com/assets/673207403a4ce8588bd76277"
+                    },
+                    "link": {
+                        "target": "https://wolt.com/az/aze/baku/restaurant/pasha-doner-7-mcr",
+                        "target_sort": "delivers-to",
+                        "target_title": "",
+                        "title": "",
+                        "type": "url"
+                    },
+                    "sorting": {
+                        "sortables": []
+                    },
+                    "telemetry_object_id": "",
+                    "telemetry_venue_badges": [],
+                    "template": "venue",
+                    "title": "Pa\u015fa D\u00f6n\u0259r 7 mkr.",
+                    "track_id": "venue-pasha-doner-7-mcr",
+                    "venue": {
+                        "address": "Jafar Xandan str. 1",
+                        "badges": [],
+                        "badges_v2": [],
+                        "categories": [],
+                        "city": "",
+                        "country": "AZE",
+                        "currency": "AZN",
+                        "delivers": true,
+                        "delivery_highlight": true,
+                        "delivery_icon": "bike",
+                        "delivery_price_highlight": true,
+                        "delivery_price_int": 0,
+                        "estimate": 60,
+                        "estimate_box": {
+                            "subtitle": "d\u0259q",
+                            "template": "estimate",
+                            "title": "55-65"
+                        },
+                        "estimate_range": "55-65",
+                        "favourite": false,
+                        "franchise": "",
+                        "icon": "bike",
+                        "id": "62f34f1ee7c652726d34d9f1",
+                        "location": [
+                            49.8286611,
+                            40.41526295
+                        ],
+                        "name": "Pa\u015fa D\u00f6n\u0259r 7 mkr.",
+                        "online": true,
+                        "price_range": 2,
+                        "product_line": "restaurant",
+                        "promotions": [
+                            {
+                                "campaign_id": "6895a1de8322332ae6bdca48",
+                                "icon": "coupon-fill",
+                                "is_offer_stackable": true,
+                                "text": "14 g\u00fcnl\u00fck 0\u20bc \u00e7atd\u0131r\u0131lma haqq\u0131",
+                                "variant": "discount"
+                            }
+                        ],
+                        "promotions_for_telemetry": [],
+                        "rating": {
+                            "rating": 3,
+                            "score": 8.4,
+                            "volume": 0
+                        },
+                        "short_description": "D\u00f6n\u0259r v\u0259 daha \u00e7ox",
+                        "short_description_v2": {
+                            "lang": "az",
+                            "value": "D\u00f6n\u0259r v\u0259 daha \u00e7ox"
+                        },
+                        "show_best_of_wolt": false,
+                        "show_wolt_plus": false,
+                        "show_zero_markup": false,
+                        "slug": "pasha-doner-7-mcr",
+                        "tags": [
+                            "d\u00f6n\u0259r",
+                            "i\u00e7kil\u0259r",
+                            "pizza"
+                        ],
+                        "venue_preview_items": []
+                    }
+                },
+                {
+                    "filtering": {
+                        "filters": []
+                    },
+                    "image": {
+                        "blurhash": "jmYKzxGnX;mqLcGqBllCLdGGl4pC",
+                        "url": "https://imageproxy.wolt.com/assets/673208a33d32943ace4ff81f"
+                    },
+                    "link": {
+                        "target": "https://wolt.com/az/aze/baku/restaurant/champion-shaurma-3-mcr",
+                        "target_sort": "delivers-to",
+                        "target_title": "",
+                        "title": "",
+                        "type": "url"
+                    },
+                    "sorting": {
+                        "sortables": []
+                    },
+                    "telemetry_object_id": "",
+                    "telemetry_venue_badges": [],
+                    "template": "venue",
+                    "title": "Champion Shaurma 3 mkr",
+                    "track_id": "venue-champion-shaurma-3-mcr",
+                    "venue": {
+                        "address": "Cavadxan str.",
+                        "badges": [],
+                        "badges_v2": [],
+                        "categories": [],
+                        "city": "",
+                        "country": "AZE",
+                        "currency": "AZN",
+                        "delivers": true,
+                        "delivery_highlight": true,
+                        "delivery_icon": "bike",
+                        "delivery_price_highlight": true,
+                        "delivery_price_int": 0,
+                        "estimate": 65,
+                        "estimate_box": {
+                            "subtitle": "d\u0259q",
+                            "template": "estimate",
+                            "title": "60-70"
+                        },
+                        "estimate_range": "60-70",
+                        "favourite": false,
+                        "franchise": "",
+                        "icon": "bike",
+                        "id": "62860be09533fd59eff027f9",
+                        "location": [
+                            49.81455462,
+                            40.40557189
+                        ],
+                        "name": "Champion Shaurma 3 mkr",
+                        "online": true,
+                        "price_range": 2,
+                        "product_line": "restaurant",
+                        "promotions": [
+                            {
+                                "campaign_id": "6895a1de8322332ae6bdca48",
+                                "icon": "coupon-fill",
+                                "is_offer_stackable": true,
+                                "text": "14 g\u00fcnl\u00fck 0\u20bc \u00e7atd\u0131r\u0131lma haqq\u0131",
+                                "variant": "discount"
+                            }
+                        ],
+                        "promotions_for_telemetry": [],
+                        "rating": {
+                            "rating": 2,
+                            "score": 6.8,
+                            "volume": 0
+                        },
+                        "short_description": "Daim m\u00fc\u015ft\u0259ril\u0259rin qay\u011f\u0131s\u0131na qalan Champion SHAURMA siz\u0259 xidm\u0259t etm\u0259kd\u0259n q\u00fcrur duyur!",
+                        "short_description_v2": {
+                            "lang": "az",
+                            "value": "Daim m\u00fc\u015ft\u0259ril\u0259rin qay\u011f\u0131s\u0131na qalan Champion SHAURMA siz\u0259 xidm\u0259t etm\u0259kd\u0259n q\u00fcrur duyur!"
+                        },
+                        "show_best_of_wolt": false,
+                        "show_wolt_plus": false,
+                        "show_zero_markup": false,
+                        "slug": "champion-shaurma-3-mcr",
+                        "tags": [
+                            "d\u00f6n\u0259r",
+                            "\u015faurma",
+                            "t\u00fcrk"
+                        ],
+                        "venue_preview_items": []
+                    }
+                }
+            ],
+            "link": {
+                "subtitle": "Ham\u0131s\u0131na bax\u0131n",
+                "target": "venues",
+                "target_sort": "delivers-to",
+                "target_title": "",
+                "title": "Ham\u0131s\u0131na bax\u0131n",
+                "type": "search-result-list",
+                "view_name": "none"
+            },
+            "name": "venues",
+            "template": "search-result-list",
+            "title": "Restoranlar v\u0259 ma\u011fazalar"
+        },
+        {
+            "content_id": "",
+            "end_of_section": {
+                "link": {
+                    "subtitle": "Ham\u0131s\u0131na bax\u0131n",
+                    "target": "items",
+                    "target_sort": "delivers-to",
+                    "target_title": "",
+                    "title": "Ham\u0131s\u0131na bax\u0131n",
+                    "type": "search-result-list",
+                    "view_name": "none"
+                },
+                "type": "expand-arrow-swipe"
+            },
+            "hide_delivery_info": false,
+            "items": [
+                {
+                    "link": {
+                        "menu_item_details": {
+                            "action_link": {
+                                "target": "",
+                                "target_sort": "delivers-to",
+                                "target_title": "",
+                                "title": "Davam etm\u0259k ",
+                                "type": "menu-item"
+                            },
+                            "city_slug": "baku",
+                            "country": "AZE",
+                            "currency": "AZN",
+                            "delivery_highlight": true,
+                            "delivery_icon": "bike",
+                            "delivery_price": 0,
+                            "delivery_price_highlight": true,
+                            "description": "Q\u0259hv\u0259yi \u015f\u0259k\u0259r, tapioka bubbles, t\u0259z\u0259 s\u00fcd v\u0259 krem \u200b\u200bpendir. Yaln\u0131z buz il\u0259.",
+                            "estimate_box": {
+                                "subtitle": "d\u0259q",
+                                "template": "estimate",
+                                "title": "15-25"
+                            },
+                            "estimate_range": "15-25",
+                            "id": "8caa125ad6235be0e4655663",
+                            "image": {
+                                "blurhash": "",
+                                "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/64ff1be29b7b42cd69a05548/ad805e86-7b0e-11ee-be26-b602d8c9c9cf_frame_1.png"
+                            },
+                            "is_sold_by_weight": false,
+                            "name": "Brown Sugar Fresh Milk",
+                            "price": 850,
+                            "price_excludes_deposit": false,
+                            "price_type": "simple-price",
+                            "product_line": "grocery",
+                            "show_wolt_plus": false,
+                            "show_zero_markup": false,
+                            "tags": [],
+                            "unit_size": 0,
+                            "venue_id": "632af569257588b5eb6d278d",
+                            "venue_image": {
+                                "blurhash": "j9RYqY8gjeci;;TtQOOXT;l4cPir",
+                                "url": "https://imageproxy.wolt.com/assets/698b11385b01ba0990cc93d7"
+                            },
+                            "venue_name": "TEAYOUME \ud83e\uddcb",
+                            "venue_rating": {
+                                "rating": 4,
+                                "score": 9.6,
+                                "volume": 301
+                            },
+                            "venue_slug": "teayoume"
+                        },
+                        "target_sort": "default",
+                        "target_title": "",
+                        "type": "menu-item-details"
+                    },
+                    "menu_item": {
+                        "country": "AZE",
+                        "currency": "AZN",
+                        "delivery_highlight": true,
+                        "delivery_icon": "bike",
+                        "delivery_price": 0,
+                        "delivery_price_highlight": true,
+                        "estimate_range": "15-25",
+                        "id": "8caa125ad6235be0e4655663",
+                        "image": {
+                            "blurhash": "",
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/64ff1be29b7b42cd69a05548/ad805e86-7b0e-11ee-be26-b602d8c9c9cf_frame_1.png"
+                        },
+                        "is_available": true,
+                        "name": "Brown Sugar Fresh Milk",
+                        "price": 850,
+                        "price_type": "simple-price",
+                        "show_wolt_plus": false,
+                        "tags": [],
+                        "venue_id": "632af569257588b5eb6d278d",
+                        "venue_name": "TEAYOUME \ud83e\uddcb",
+                        "venue_rating": {
+                            "rating": 4,
+                            "score": 9.6,
+                            "volume": 301
+                        }
+                    },
+                    "template": "search-menu-item",
+                    "title": "Brown Sugar Fresh Milk",
+                    "track_id": "search_menu_item-8caa125ad6235be0e4655663"
+                },
+                {
+                    "link": {
+                        "menu_item_details": {
+                            "action_link": {
+                                "target": "",
+                                "target_sort": "delivers-to",
+                                "target_title": "",
+                                "title": "Davam etm\u0259k ",
+                                "type": "menu-item"
+                            },
+                            "city_slug": "baku",
+                            "country": "AZE",
+                            "currency": "AZN",
+                            "delivery_highlight": true,
+                            "delivery_icon": "bike",
+                            "delivery_price": 0,
+                            "delivery_price_highlight": true,
+                            "description": "inc\u0259 x\u0259mir,quzu qiym\u0259,c\u0259f\u0259ri,\u0259dviyyatlar,sar\u0131msaq,pomidor,lomon",
+                            "estimate_box": {
+                                "subtitle": "d\u0259q",
+                                "template": "estimate",
+                                "title": "30-40"
+                            },
+                            "estimate_range": "30-40",
+                            "id": "66261b8c5dbbe492714da50d",
+                            "image": {
+                                "blurhash": "",
+                                "url": "https://imageproxy.wolt.com/assets/667f9f5397fcfd46adf72bf3"
+                            },
+                            "is_sold_by_weight": false,
+                            "name": "LAHMACUN  (ac\u0131l\u0131 v\u0259 ya ac\u0131s\u0131z)",
+                            "price": 650,
+                            "price_excludes_deposit": false,
+                            "price_type": "simple-price",
+                            "product_line": "restaurant",
+                            "show_wolt_plus": false,
+                            "show_zero_markup": false,
+                            "tags": [],
+                            "unit_size": 0,
+                            "venue_id": "664c7248677800bfbd164923",
+                            "venue_image": {
+                                "blurhash": "j6H9e4XJX6;:;;ntrdPu4zmGd5Jl",
+                                "url": "https://imageproxy.wolt.com/assets/698b0b535b01ba0990cc91b3"
+                            },
+                            "venue_name": "Naml\u0131 Kabab Restoran\u0131",
+                            "venue_rating": {
+                                "rating": 3,
+                                "score": 9.0,
+                                "volume": 384
+                            },
+                            "venue_slug": "namli-kebab-restoran"
+                        },
+                        "target_sort": "default",
+                        "target_title": "",
+                        "type": "menu-item-details"
+                    },
+                    "menu_item": {
+                        "country": "AZE",
+                        "currency": "AZN",
+                        "delivery_highlight": true,
+                        "delivery_icon": "bike",
+                        "delivery_price": 0,
+                        "delivery_price_highlight": true,
+                        "estimate_range": "30-40",
+                        "id": "66261b8c5dbbe492714da50d",
+                        "image": {
+                            "blurhash": "",
+                            "url": "https://imageproxy.wolt.com/assets/667f9f5397fcfd46adf72bf3"
+                        },
+                        "is_available": true,
+                        "name": "LAHMACUN  (ac\u0131l\u0131 v\u0259 ya ac\u0131s\u0131z)",
+                        "price": 650,
+                        "price_type": "simple-price",
+                        "show_wolt_plus": false,
+                        "tags": [],
+                        "venue_id": "664c7248677800bfbd164923",
+                        "venue_name": "Naml\u0131 Kabab Restoran\u0131",
+                        "venue_rating": {
+                            "rating": 3,
+                            "score": 9.0,
+                            "volume": 384
+                        }
+                    },
+                    "template": "search-menu-item",
+                    "title": "LAHMACUN  (ac\u0131l\u0131 v\u0259 ya ac\u0131s\u0131z)",
+                    "track_id": "search_menu_item-66261b8c5dbbe492714da50d"
+                },
+                {
+                    "link": {
+                        "menu_item_details": {
+                            "action_link": {
+                                "target": "",
+                                "target_sort": "delivers-to",
+                                "target_title": "",
+                                "title": "Davam etm\u0259k ",
+                                "type": "menu-item"
+                            },
+                            "city_slug": "baku",
+                            "country": "AZE",
+                            "currency": "AZN",
+                            "delivery_highlight": true,
+                            "delivery_icon": "bike",
+                            "delivery_price": 0,
+                            "delivery_price_highlight": true,
+                            "description": "\u018fsas yem\u0259k + qarnir + \u015forba  + Az\u0259rs\u00fcd\u00ae Ayran",
+                            "estimate_box": {
+                                "subtitle": "d\u0259q",
+                                "template": "estimate",
+                                "title": "25-35"
+                            },
+                            "estimate_range": "25-35",
+                            "id": "6103be0876ea8598e97137c9",
+                            "image": {
+                                "blurhash": "",
+                                "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6103b759574ae020f3b1f7f5/4afe2c54-fb27-11ee-9143-7644833598ce_717c3ea5_7c50_405c_b570_091c8e8c6c2c.jpg"
+                            },
+                            "is_sold_by_weight": false,
+                            "name": "Biznes Lan\u00e7",
+                            "original_price": 1250,
+                            "price": 1000,
+                            "price_excludes_deposit": false,
+                            "price_type": "simple-price",
+                            "product_line": "restaurant",
+                            "show_wolt_plus": false,
+                            "show_zero_markup": false,
+                            "tags": [],
+                            "unit_size": 0,
+                            "venue_id": "6103b71def761fed22f47092",
+                            "venue_image": {
+                                "blurhash": "j4zVa9Xu0I;;vLTKfe5s1vj;oPcQ",
+                                "url": "https://imageproxy.wolt.com/assets/69807bc8e4940faa6a4e8364"
+                            },
+                            "venue_name": "Pushkin Restaurant",
+                            "venue_rating": {
+                                "rating": 4,
+                                "score": 9.0,
+                                "volume": 479
+                            },
+                            "venue_slug": "pushkin-afe"
+                        },
+                        "target_sort": "default",
+                        "target_title": "",
+                        "type": "menu-item-details"
+                    },
+                    "menu_item": {
+                        "country": "AZE",
+                        "currency": "AZN",
+                        "delivery_highlight": true,
+                        "delivery_icon": "bike",
+                        "delivery_price": 0,
+                        "delivery_price_highlight": true,
+                        "estimate_range": "25-35",
+                        "id": "6103be0876ea8598e97137c9",
+                        "image": {
+                            "blurhash": "",
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/6103b759574ae020f3b1f7f5/4afe2c54-fb27-11ee-9143-7644833598ce_717c3ea5_7c50_405c_b570_091c8e8c6c2c.jpg"
+                        },
+                        "is_available": true,
+                        "name": "Biznes Lan\u00e7",
+                        "original_price": 1250,
+                        "price": 1000,
+                        "price_type": "simple-price",
+                        "show_wolt_plus": false,
+                        "tags": [],
+                        "venue_id": "6103b71def761fed22f47092",
+                        "venue_name": "Pushkin Restaurant",
+                        "venue_rating": {
+                            "rating": 4,
+                            "score": 9.0,
+                            "volume": 479
+                        }
+                    },
+                    "template": "search-menu-item",
+                    "title": "Biznes Lan\u00e7",
+                    "track_id": "search_menu_item-6103be0876ea8598e97137c9"
+                },
+                {
+                    "link": {
+                        "menu_item_details": {
+                            "action_link": {
+                                "target": "",
+                                "target_sort": "delivers-to",
+                                "target_title": "",
+                                "title": "Davam etm\u0259k ",
+                                "type": "menu-item"
+                            },
+                            "city_slug": "baku",
+                            "country": "AZE",
+                            "currency": "AZN",
+                            "delivery_highlight": true,
+                            "delivery_icon": "bike",
+                            "delivery_price": 0,
+                            "delivery_price_highlight": true,
+                            "description": "\u018fri\u015ft\u0259, toyuq, yerk\u00f6k\u00fc, k\u0259l\u0259m, sar\u0131msaq, ya\u015f\u0131l so\u011fan, x\u00fcsusi sous, r\u0259ngli bib\u0259r",
+                            "estimate_box": {
+                                "subtitle": "d\u0259q",
+                                "template": "estimate",
+                                "title": "35-45"
+                            },
+                            "estimate_range": "35-45",
+                            "id": "616c72c076722302076f4bc9",
+                            "image": {
+                                "blurhash": "",
+                                "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5d9daf9408b790f3e8903c42/04db9784-3ab1-11ee-854e-2e07c0a2f389__________.jpg"
+                            },
+                            "is_sold_by_weight": false,
+                            "name": "Toyuqlu \u018fri\u015ft\u0259",
+                            "price": 1400,
+                            "price_excludes_deposit": false,
+                            "price_type": "simple-price",
+                            "product_line": "restaurant",
+                            "show_wolt_plus": false,
+                            "show_zero_markup": false,
+                            "tags": [],
+                            "unit_size": 0,
+                            "venue_id": "5d9d8296ba5c2aef78cf7952",
+                            "venue_image": {
+                                "blurhash": "j4GFy7ha;LR1;;TLWQgPjujL9dNQ",
+                                "url": "https://imageproxy.wolt.com/assets/698b12614fe07fe9e18a1b6b"
+                            },
+                            "venue_name": "Asian Street Food",
+                            "venue_rating": {
+                                "rating": 4,
+                                "score": 9.0,
+                                "volume": 425
+                            },
+                            "venue_slug": "asian-street-food"
+                        },
+                        "target_sort": "default",
+                        "target_title": "",
+                        "type": "menu-item-details"
+                    },
+                    "menu_item": {
+                        "country": "AZE",
+                        "currency": "AZN",
+                        "delivery_highlight": true,
+                        "delivery_icon": "bike",
+                        "delivery_price": 0,
+                        "delivery_price_highlight": true,
+                        "estimate_range": "35-45",
+                        "id": "616c72c076722302076f4bc9",
+                        "image": {
+                            "blurhash": "",
+                            "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5d9daf9408b790f3e8903c42/04db9784-3ab1-11ee-854e-2e07c0a2f389__________.jpg"
+                        },
+                        "is_available": true,
+                        "name": "Toyuqlu \u018fri\u015ft\u0259",
+                        "price": 1400,
+                        "price_type": "simple-price",
+                        "show_wolt_plus": false,
+                        "tags": [],
+                        "venue_id": "5d9d8296ba5c2aef78cf7952",
+                        "venue_name": "Asian Street Food",
+                        "venue_rating": {
+                            "rating": 4,
+                            "score": 9.0,
+                            "volume": 425
+                        }
+                    },
+                    "template": "search-menu-item",
+                    "title": "Toyuqlu \u018fri\u015ft\u0259",
+                    "track_id": "search_menu_item-616c72c076722302076f4bc9"
+                }
+            ],
+            "link": {
+                "subtitle": "Ham\u0131s\u0131na bax\u0131n",
+                "target": "items",
+                "target_sort": "delivers-to",
+                "target_title": "",
+                "title": "Ham\u0131s\u0131na bax\u0131n",
+                "type": "search-result-list",
+                "view_name": "none"
+            },
+            "name": "items",
+            "template": "search-result-list",
+            "title": "\u018flaq\u0259dar madd\u0259l\u0259r"
+        }
+    ],
+    "show_large_title": true,
+    "show_map": false,
+    "track_id": "discovery:search:split-view"
+}
